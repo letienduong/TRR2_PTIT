@@ -7,7 +7,7 @@ int vs[100];
 int WT=0;
 vector<pair<int,int>> v;
 void input() {
-	cout << "Nhap so dinh: ";
+	cout << "Nhap so dinh cua ma tran: ";
     cin >> n;
 	cout << "Nhap dinh bat dau: "; 
     cin >> u;

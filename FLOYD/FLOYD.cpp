@@ -13,7 +13,7 @@ int a[100][100],d[100][100],e[100][100];
 int vs[100];
 vector<pair<int,int>> v;
 void input() {
-	cout << "Nhap so dinh: ";
+	cout << "Nhap so dinh cua ma tran: ";
     cin >> n;
     cout << "Nhap ma tran: "<< endl;
     for (int i = 1; i <= n; i++) {
